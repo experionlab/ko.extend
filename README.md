@@ -1,2 +1,2 @@
-# mastercare
-mastercare javascript plugins
+# ko.extend
+mastercare knockout library
